@@ -8,9 +8,9 @@ namespace SharpReminders
 {
     static class Program
     {
-        public static string programName = "";
-        public static string programAuthor = "";
-        public static string programVersion = "";
+        public static string programName = "SharpReminders";
+        public static string programAuthor = "Natsumi";
+        public static string programVersion = "v0.2";
 
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
