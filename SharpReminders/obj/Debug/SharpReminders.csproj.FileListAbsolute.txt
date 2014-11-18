@@ -6,3 +6,4 @@ C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminder
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.csproj.GenerateResource.Cache
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.exe
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.Menu.resources

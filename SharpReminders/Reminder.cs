@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SharpReminders
 {
-    class Reminder
+    public class Reminder
     {
         public enum RepeatValue
         {
@@ -38,7 +38,7 @@ namespace SharpReminders
 
         #region 得るのメソッド
 
-        public string GetName()
+        public string GetReminderName()
         {
             return this.ReminderName;
         }
