@@ -1,1 +1,8 @@
 C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\bin\Debug\SharpReminders.exe.config
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\bin\Debug\SharpReminders.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\bin\Debug\SharpReminders.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.Properties.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.csproj.GenerateResource.Cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\SharpReminders\SharpReminders\obj\Debug\SharpReminders.pdb
